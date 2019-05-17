@@ -29,6 +29,18 @@ footer{
 }
 
 .projects-link{
-    display: inline-block;
+    display: block;
     align-content: center;
+    margin-bottom: 50px;
+    margin-left: 125px;
+}
+.guide-head{
+    text-align: center;
+    margin-top: 25px;
+}
+
+.guide-p{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 50px;
 }
