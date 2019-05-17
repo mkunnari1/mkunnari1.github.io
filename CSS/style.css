@@ -27,3 +27,8 @@ footer{
     background: black;
     color: white;
 }
+
+.projects-link{
+    display: inline-block;
+    align-content: center;
+}

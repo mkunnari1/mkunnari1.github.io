@@ -1,0 +1,101 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: whitesmoke;
+}
+.jumbotron {
+    background-image: url(../Images/deal-3.jpg);
+    background-size: cover;
+    color: white;
+    margin-top: 10px;
+    height: 500px;
+    font-family: Georgia, 'Times New Roman', Times, serif
+    
+}
+
+#deal-head {
+    padding-top: 250px;
+}
+
+.mkimg {
+    height: 450px;
+}
+
+.delcar {
+    height: 400px;
+    max-width: 400px;
+    
+}
+
+.carbut {
+    margin-top: -150px;
+}
+
+.footie {
+    margin-top: 150px;
+    
+}
+
+.foobut {
+    background-color: whitesmoke;
+    border: none;
+}
+
+#pord {
+    margin-left: 200px;
+}
+
+.Builder-head {
+    margin-top: 50px;
+    margin-left: 160px;
+}
+
+.top-list-l {
+    border: none;
+    background-color: whitesmoke;
+}
+
+
+.top-check-1 {
+    border: none;
+    background-color: whitesmoke;
+    margin-top: -15px;
+    margin-left: 100px;
+}
+
+.builder-p {
+    max-width: 350px;
+    border: 1px solid #d9534f;
+    border-radius: 5px;
+    background-color: #d9534f;
+    color: white;
+}
+
+#order-butn {
+    margin-left: 160px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+#receipt2 {
+    margin-top: 50px;
+    opacity: 0;
+}
+
+#textTotal1 {
+    display: inline-block; 
+    margin-right: 250px;
+    margin-top: 0px;
+  
+}
+#textTotal2 {
+
+    display: inline-block;
+}
+#totalPrice1{
+    display: inline-block;
+    margin-right: 250px;
+}
+
+#totalPrice2 {
+    display: inline-block;
+}

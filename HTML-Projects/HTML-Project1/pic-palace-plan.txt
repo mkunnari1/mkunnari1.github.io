@@ -1,0 +1,52 @@
+Tab name = The Puppy Pic Palace
+<meta charset="utf-8">
+background color white
+
+Header: 
+	<h1> Welcome to The Puppy Pic Palace</h1>
+	<p> A website dedicated to pictures of puppies! </p>
+	<blockquote> google says were the number one place to look at pictures of puppies in the web</blockquote>
+	<a> <img>picture of a puppy </a>
+ (Dark brown text for the Header and get a picture of Gumbo and Marleau together)
+<hr>
+
+body:
+	<navigation>
+		<ul> put in links for sign up, contact info(footer), and puppy pictures
+	</navigation>
+
+
+
+
+
+	<div>	
+		<strong?> (might be a good idea to have this text in bold or some other effect
+		maybe italic? one of the two.) Sign up below to start viewing and sharing 
+		pictures of cute puppies </strong>
+	</div>
+  (keep going with the dark brown text)
+
+	put in a few page breaks <br /> so the sign up sheet isn't directly below the
+	 text and put a picture of a puppy pointing down or something as a guide
+
+	<div the sign up sheet>
+		<ul> first name
+		<li>last name
+		<li>email address
+		<li>photo preferences 
+			a. dogs in space
+			b. dogs in sports
+			c. dogs in the wild
+			d. dogs with plants
+(these have to be selectable ,like check boxes or toggle switches)
+		</ul>
+
+	</div>
+
+</body>
+<hr>
+<footer>
+	in the footer put in contact info for the page like phone number and email address
+
+</footer>
+
