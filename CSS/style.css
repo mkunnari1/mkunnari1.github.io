@@ -44,3 +44,20 @@ footer{
     margin-top: 15px;
     margin-bottom: 50px;
 }
+
+.mk_list{
+    width: min-content;
+    display: block;
+    align-content: left;
+    margin-bottom: 20px;
+    margin-left: 0px;
+    list-style-type: none;
+
+}
+
+.mk_list_item{
+    border-bottom: solid black;
+    border-bottom-width: 1px;
+    border-bottom-right-radius: inherit;
+    font-size: 20px;
+}
