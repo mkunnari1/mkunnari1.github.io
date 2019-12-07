@@ -61,3 +61,16 @@ footer{
     border-bottom-right-radius: inherit;
     font-size: 20px;
 }
+
+/*personal skills page*/
+.comms-card{
+    width: 75vw;
+    flex:auto;
+    margin-left:10px;
+    margin-right:10px;
+    box-shadow:3px 3px inset;
+}
+.comms-card h3{
+    text-align:center;
+}
+/*End personal skills page*/
