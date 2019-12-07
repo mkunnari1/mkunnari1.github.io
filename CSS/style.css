@@ -64,11 +64,11 @@ footer{
 
 /*personal skills page*/
 .comms-card{
-    width: 75vw;
+    width: 80vw;
     flex:auto;
-    margin-left:10px;
-    margin-right:10px;
-    box-shadow:3px 3px inset;
+    margin-left:10vw;
+    margin-right:10vw;
+    box-shadow:#696969 3px 3px inset;
 }
 .comms-card h3{
     text-align:center;
